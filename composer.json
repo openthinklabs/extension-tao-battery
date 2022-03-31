@@ -1,6 +1,6 @@
 {
 
-    "name": "oat-sa/extension-tao-battery",
+    "name": "openthinklabs/extension-tao-battery",
     "description" : "An extension to assign test-takers to a battery of deliveries instead of one delivery",
     "type" : "tao-extension",
     "authors" : [
