@@ -1,0 +1,16 @@
+composer.lock
+funcAcl/
+generis/
+tao/
+taoBackOffice/
+taoDelivery/
+taoDeliveryRdf/
+taoEventLog/
+taoGroups/
+taoItems/
+taoQtiItem/
+taoQtiTest/
+taoResultServer/
+taoTestTaker/
+taoTests/
+vendor/
